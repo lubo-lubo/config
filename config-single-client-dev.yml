@@ -1,0 +1,5 @@
+data:
+  dev: config-consumer-dev
+  user:
+    username: consumer
+    password: 123456
